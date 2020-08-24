@@ -5,8 +5,7 @@ public class Eliza {
         Scanner keybd = new Scanner(System.in);
         String name;
         String day;
-        String special; //Indicated here as special, this refers to new, critical
-                        //information that sticks out on the mind of users.
+        String special;
 
         System.out.println("Welcome to ZBot! My name is Z, who am I speaking with?");
         name = keybd.nextLine();
