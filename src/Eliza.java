@@ -15,7 +15,7 @@ public class Eliza {
         System.out.println("Okay, well did anything special or unexpected happen today?");
         special = keybd.nextLine();
         System.out.print("Hmmm... well '" + special);
-        System.out.println("' is fine.\nOh, dang I'm outta time! Talk to ya next time, " + name);
+        System.out.print("' is fine.\nOh, dang I'm outta time! Talk to ya next time, " + name);
         System.out.println(".\nThis conversation has been terminated.\n\nYour Responses were as follows, in this order:\n" + name );
         System.out.println(""+ day);
         System.out.println(""+ special);
