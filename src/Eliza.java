@@ -19,7 +19,7 @@ public class Eliza {
         System.out.println(".\nThis conversation has been terminated.\n\nYour Responses were as follows, in this order:\n" + name );
         System.out.println(""+ day);
         System.out.println(""+ special);
-        System.out.println("\n\nPlease Come chat with ZBot again! I don't say much, but I'm original!");
+        System.out.println("\n\nPlease come chat with ZBot again! I don't say much, but I'm original!");
 
     }
 }
